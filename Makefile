@@ -1,2 +1,2 @@
 main: main.cpp
-	g++ main.cpp -o main
+	g++ -static main.cpp -o main
